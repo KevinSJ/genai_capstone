@@ -1,0 +1,27 @@
+
+🏠 Property Disclosure #1 – Olympus Heights Dome Unit 7B
+
+Property Address: Unit 7B, Olympus Heights Residential Dome, Sector E, Mars
+Construction Date: Sol 4923 (Earth Date: Jan 4, 2123)
+Property Type: Pressurized Dome Apartment (2BR / 1.5BA)
+
+🔧 Structural and System Conditions
+- Dome Integrity: Last pressure seal test passed (Sol 5199). Minor sealant degradation detected on north-facing window pane; patched.
+- Air Filtration: Unit air filters replaced 4 Sols ago. Compliant with Martian Clean Air Act (MCAA-5).
+- Water Recycling: Fully functional. Greywater tank replaced in 2122.
+- Thermal Insulation: Operational. Night cycle heat retention slightly below optimal range (-3°C delta reported).
+
+🧯 Safety and Hazards
+- Radiation Shielding: 92% effectiveness (slightly under dome average of 96%). Maintenance recommended within next 3 Earth months.
+- Fire Suppression: Foam-based suppression system tested and passed. No known issues.
+- Dust Ingress: Low. Anti-static shielding intact. Occasional dust observed near utility port.
+
+📄 Legal and Zoning
+- Zoning Classification: Mixed Residential / Research Use
+- HOA Rules: Solar panel cleaning is tenant responsibility. No exterior drone docking without approval.
+- Disputes or Liens: None reported.
+
+🔧 Recent Repairs & Modifications
+- Installed adaptive light panels (Circadian sync, 2123)
+- Repaired cracked tile in central hygiene pod
+- Replaced faulty CO₂ scrubber valve (Unit-wide recall)

@@ -1,0 +1,27 @@
+
+🏠 Home Inspection Report – Olympus Heights Dome Unit 7B
+
+📍 Property Address: Unit 7B, Olympus Heights Residential Dome, Sector E, Mars
+📅 Inspection Date: Sol 5205 (Earth Date: Feb 10, 2123)
+🧑‍🔧 Inspector: ROVI-18 Autonomous Drone, Certified Martian Habitat Inspector
+
+🧱 Structural
+- Dome panels show no cracks or fractures. Surface pitting present on outer shell, cosmetic only.
+- Window seals intact. Patch applied to northern window seal shows stable bond (recommend follow-up inspection next cycle).
+
+🔌 Systems
+- Air Filtration System: Fully operational. Filter wear at 32%.
+- CO₂ Scrubber: Operational. Valve replaced recently — no issues found.
+- Water Recyclers: Functioning as expected. Slight noise from primary pump, no leak detected.
+
+🌡️ Thermal & Environmental
+- Temperature differential inside unit during night cycle exceeds recommended limit by 2.9°C. Suggest insulation review.
+- Humidity stable. No evidence of condensation buildup.
+
+🛑 Safety
+- Fire Suppression System: Fully functional. Emergency override tested — passed.
+- Emergency Exit: Clear and operational. Pressure door responds within 1.1 seconds.
+- Radiation Shielding: Surface scan indicates below-average performance (92%). Retest recommended in 90 Sols.
+
+✅ Summary:
+The unit is generally well-maintained with minor follow-up needed on insulation efficiency and window seal check.

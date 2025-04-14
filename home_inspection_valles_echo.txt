@@ -1,0 +1,27 @@
+
+🏠 Home Inspection Report – Valles Echo Settlement, Plot 3A
+
+📍 Property Address: Plot 3A, Valles Echo Settlement, East Rim Zone, Mars
+📅 Inspection Date: Sol 5197 (Earth Date: Feb 2, 2123)
+🧑‍🔧 Inspector: DAX-11 Certified Inspection Rover
+
+🧱 Structural
+- Hull scan reveals minor microfissure in east wall. Patched successfully with tritanium sealant. No pressure loss detected.
+- Support braces stable. Exterior panel joints show signs of mineral abrasion, routine cleaning advised.
+
+🔌 Systems
+- Battery Unit: At end of lifecycle. Efficiency reduced to 78%. Recommend replacement within 60 Sols.
+- Atmosphere Control: Minor mineral scaling on oxygen coil; efficiency remains above 95%.
+- Greywater System: No leaks or blockages. Pressure regulation stable.
+
+🌡️ Thermal & Environmental
+- Thermal balance acceptable. IR panel output within normal range.
+- Hydroponic unit humidity sensors off by ±5%. Suggest calibration.
+
+🛑 Safety
+- Radiation Protection: All zones within acceptable limits. No new hotspots detected.
+- Fire Suppression: Halon system shows full charge. Manual override unresponsive — flagged for repair.
+- Emergency Beacon: Offline. New transmitter module en route.
+
+✅ Summary:
+The pod is in good structural condition. Key action items include battery replacement, fire system override fix, and beacon restoration.

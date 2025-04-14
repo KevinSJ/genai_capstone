@@ -1,0 +1,26 @@
+
+🏠 Property Disclosure #2 – Valles Echo Settlement, Plot 3A
+
+Property Address: Plot 3A, Valles Echo Settlement, East Rim Zone, Mars
+Construction Date: Sol 4812 (Earth Date: Oct 20, 2121)
+Property Type: Detached Surface Pod (3BR / 2BA + Research Bay)
+
+🔧 Structural and System Conditions
+- Pod Structure: Reinforced tritanium shell with impact foam layer. Last hull inspection showed microfissure on east bulkhead (patched).
+- Power Systems: Dual solar + battery grid. Battery replacement due in 2 months (alert flagged).
+- Atmosphere Control: CO₂ scrubbing efficiency at 97%. Oxygen generator coil shows signs of mineral buildup.
+
+🧯 Safety and Hazards
+- Radiation Shielding: Layered basalt shielding rated for Class 4 Solar Flare events. No breaches recorded.
+- Fire Systems: Halon system active. Emergency beacon test failed last cycle (replacement underway).
+- Soil Instability: Minor tremor activity detected during last Martian month. No damage observed.
+
+📄 Legal and Zoning
+- Zoning Classification: Research-Residential Hybrid
+- Permits: Research Bay approved for Level 2 Biolab usage
+- Encumbrances: Solar panel extension application pending approval
+
+🔧 Recent Repairs & Modifications
+- Installed panoramic viewport with anti-glare filter
+- Upgraded AI maintenance assistant (now supports 3 languages)
+- Resealed hydroponic wall connectors
